@@ -1,0 +1,49 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .divider {
+    height: 1px;
+    background-color: #ccc;
+    margin: 40px 0;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .project {
+    display: flex;
+    margin: 40px 0;
+  }
+  
+  .project img {
+    flex: 0 0 300px;
+    margin-right: 40px;
+  }
+  
+  .project h3 {
+    margin-top: 0;
+  }
+  
+  .project-details {
+    flex: 1;
+  }
